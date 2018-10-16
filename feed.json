@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Harry F Rook",
+    "description": "",
+    "home_page_url": "https://harryrook.github.io/photos",
+    "feed_url": "https://harryrook.github.io/photos/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Harry F Rook"
+    },
+    "items": [
+        {
+            "id": "https://harryrook.github.io/photos/test-post.html",
+            "url": "https://harryrook.github.io/photos/test-post.html",
+            "title": "Test Post",
+            "summary": "Test",
+            "content_html": "Test<img src=\"https://harryrook.github.io/photos/media/posts/1/kittens.jpg\" alt=\"\" width=\"1000\" height=\"667\">",
+            "image": "https://harryrook.github.io/photos/media/posts/1/",
+            "author": {
+                "name": "Harry F Rook"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-16T20:16:44+01:00",
+            "date_modified": "2018-10-16T20:16:44+01:00"
+        }
+    ]
+}
